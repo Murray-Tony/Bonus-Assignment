@@ -26,6 +26,5 @@ public class Program {
         }
       }
       else Console.WriteLine("Triangle cannot be formed.");
-    
   }
 }
